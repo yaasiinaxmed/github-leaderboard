@@ -2,7 +2,7 @@
 
 A modern and responsive dashboard that showcases the most active GitHub developers by country. Built with Next.js, Tailwind CSS, and data sourced from [committers.top](https://github.com/ashkulz/committers.top), this open source project highlights developer contributions across the globe.
 
-👉 **Live Demo**: [https://github-country-leaderboard.vercel.app](https://github-country-leaderboard.vercel.app)
+👉 **Live Demo**: [https://github-leaderboard25.vercel.app/](https://github-leaderboard25.vercel.app/)
 
 ---
 
@@ -39,8 +39,8 @@ A modern and responsive dashboard that showcases the most active GitHub develope
 ### Installation
 
 ```bash
-git clone https://github.com/yasindev/github-country-leaderboard.git
-cd github-country-leaderboard
+git clone https://github.com/yaasiinaxmed/github-leaderboard.git
+cd github-leaderboard
 npm install
 npm run dev 
 ```
@@ -72,7 +72,7 @@ We welcome contributions from the community! Here's how you can get started:
     
     CopyEdit
     
-    `git clone https://github.com/your-username/github-country-leaderboard`
+    `git clone https://github.com/your-username/github-leaderboard`
     
 3. **Create a new branch**:
     
