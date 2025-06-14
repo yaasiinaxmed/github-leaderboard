@@ -186,7 +186,7 @@ export default function CountryLeaderboard({ country, searchQuery, sortOrder }: 
     <div>
       <div className="flex flex-col md:flex-row items-start md:items-center justify-between mb-6">
         <h2 className="text-xl font-semibold">
-        Most active GitHub Devs in <span className="text-2xl">{countryName || country}</span> 
+          <span className="text-2xl">{countryName || country}</span> Top Contributors
           <Badge variant="outline" className="ml-2 bg-green-900/20 text-green-400">
             {sortedUsers.length} devs
           </Badge>
