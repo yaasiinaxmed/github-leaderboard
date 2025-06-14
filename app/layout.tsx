@@ -10,9 +10,8 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "GitHub Commit Leaderboard",
+  title: "GitHub Leaderboard",
   description: "Track top GitHub contributors by commits",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
